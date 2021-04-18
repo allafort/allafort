@@ -1,14 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-I am a Data Scientist, formerly Astrophysicist. 
-Currently a Fellow at the Data Incubator, perfecting my skills in Python Data Analysis and Visualization, Machine Learning, SQL and other cool Data Science tools.
 
+### I am a Data Scientist, formerly Astrophysicist. 
+### Currently a Fellow at the Data Incubator, perfecting my skills in Python Data Analysis and Visualization, Machine Learning, SQL and other cool Data Science tools.
+
+&nbsp;
+  
 Contact me: allafort.alice@gmail.com
 😄 Pronouns: she, her.
 
 [My LinkedIn](https://www.linkedin.com/in/alice-allafort/)
 
 
+&nbsp;
+  
 
 <!--
 **allafort/allafort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
