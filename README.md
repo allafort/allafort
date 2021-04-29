@@ -7,7 +7,7 @@
 &nbsp;
   
 Contact me: allafort.alice@gmail.com
-😄 Pronouns: she, her.
+😄  Pronouns: she, her.
 
 [My LinkedIn](https://www.linkedin.com/in/alice-allafort/)
 
