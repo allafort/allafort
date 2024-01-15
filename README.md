@@ -2,7 +2,8 @@
 
 
 ### I am a Data Scientist, formerly Astrophysicist. 
-### Currently a Fellow at the Data Incubator, perfecting my skills in Python Data Analysis and Visualization, Machine Learning, SQL and other cool Data Science tools.
+### Just graduated from Le Wagon Data Science bootcamp, perfecting my skills in Python, Data Analysis, Visualization, SQL, Machine Learning, Deep Learning other cool Data Science tools.
+
 
 &nbsp;
   
